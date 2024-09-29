@@ -1,0 +1,38 @@
+{
+  "project_info": {
+    "project_number": "349850982959",
+    "project_id": "strade-aba90",
+    "storage_bucket": "strade-aba90.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349850982959:android:ea1081440194e09eef84da",
+        "android_client_info": {
+          "package_name": "com.project.strade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "349850982959-t3ru05h62pju7vtsrg421sv56iuhgn2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.project.strade",
+            "certificate_hash": "1435538c0c8949ab52455e7fb3e5e1e5c3e0850e"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu4q6mfbPPcjBCylC-yHXN09mCXgt9wKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
